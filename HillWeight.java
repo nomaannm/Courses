@@ -1,4 +1,6 @@
-@author NomanMumtaz
+/** 
+  *  @author NomanMumtaz
+*/
 
 public class HillWeight {
     static int weightOfHill(int hillLevels , int weightOfPeak , int weightIncrement)
